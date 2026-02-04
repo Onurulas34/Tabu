@@ -14,12 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::CardData
   firstColor: {r: 0.745283, g: 0, b: 0, a: 1}
   secondColor: {r: 1, g: 0.6370453, b: 0, a: 1}
-  cardName: Icardi
+  cardName: Mauro Icardi
   cardScore: 50
   negativeScore: 40
   forbiddenWord:
-  - e
-  - e
-  - e
-  - e
+  - Galatasaray
+  - Arjantin
+  - Forvet
+  - "Sar\u0131\u015F\u0131n"
   photo: {fileID: 0}

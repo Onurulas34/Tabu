@@ -18,8 +18,8 @@ MonoBehaviour:
   cardScore: 50
   negativeScore: 30
   forbiddenWord:
-  - "\u0131ukgu"
-  - kjgkh
-  - ghjkkj
-  - gkhjkh
+  - "Be\u015Fikta\u015F"
+  - Portekiz
+  - 27
+  - Benfica
   photo: {fileID: 0}

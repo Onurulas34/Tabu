@@ -14,12 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::CardData
   firstColor: {r: 1, g: 1, b: 1, a: 1}
   secondColor: {r: 0.37883383, g: 0.2028302, b: 1, a: 1}
-  cardName: Ronaldo
+  cardName: Cristiano Ronaldo
   cardScore: 50
-  negativeScore: 20
+  negativeScore: 40
   forbiddenWord:
-  - dsfsda
-  - sdfsa
-  - sadfasdf
-  - sadfasd
+  - 7
+  - Real Madrid
+  - Portekiz
+  - GOAT
   photo: {fileID: 0}

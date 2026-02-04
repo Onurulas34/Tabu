@@ -10,16 +10,16 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0775724c42b784a468c93d02d4b9e0d7, type: 3}
-  m_Name: Card_1
-  m_EditorClassIdentifier: 
-  firstColor: {r: 0.6556604, g: 0.69369787, b: 1, a: 1}
-  secondColor: {r: 0.3537736, g: 0.39254713, b: 1, a: 1}
-  cardName: 'Messi '
-  cardScore: 50
-  negativeScore: 20
+  m_Name: "Ba\u015Fak\u015Fehir"
+  m_EditorClassIdentifier: Assembly-CSharp::CardData
+  firstColor: {r: 0, g: 0, b: 0, a: 0}
+  secondColor: {r: 0, g: 0, b: 0, a: 0}
+  cardName: "Ba\u015Fak\u015Fehir"
+  cardScore: 40
+  negativeScore: 30
   forbiddenWord:
-  - Arjantin
-  - Barselona
-  - 10
-  - Ballon d'Or
-  photo: {fileID: -118441761948617233, guid: c105bf3736c3e7f4293d32c76009b20d, type: 3}
+  - Turuncu Lacivert
+  - "\u0130stanbul"
+  - "T\xFCrkiye"
+  - "\u015Eampiyon"
+  photo: {fileID: 0}
