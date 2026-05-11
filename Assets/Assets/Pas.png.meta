@@ -1,0 +1,630 @@
+fileFormatVersion: 2
+guid: c57e6a732a0e552438a18a03463ef6e4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1216545744445828140
+    second: Pas_0
+  - first:
+      213: 2737606550311986588
+    second: Pas_1
+  - first:
+      213: -4944532010536013196
+    second: Pas_2
+  - first:
+      213: 8299174449486684887
+    second: Pas_3
+  - first:
+      213: 2035142115435874153
+    second: Pas_4
+  - first:
+      213: -2045695380949573511
+    second: Pas_5
+  - first:
+      213: -1552755925448003769
+    second: Pas_6
+  - first:
+      213: -1094261766133264138
+    second: Pas_7
+  - first:
+      213: 3724037939966712731
+    second: Pas_8
+  - first:
+      213: -3362853370201533891
+    second: Pas_9
+  - first:
+      213: -601274860106238801
+    second: Pas_10
+  - first:
+      213: 5587142459325823860
+    second: Pas_11
+  - first:
+      213: 2044995835931533381
+    second: Pas_12
+  - first:
+      213: -7427096611882587576
+    second: Pas_13
+  - first:
+      213: 3196952732512352472
+    second: Pas_14
+  - first:
+      213: -4608138403482462251
+    second: Pas_15
+  - first:
+      213: 2336194339837217985
+    second: Pas_16
+  - first:
+      213: 6794250569642583940
+    second: Pas_17
+  - first:
+      213: -1137301619765124312
+    second: Pas_18
+  - first:
+      213: 6530621169915663317
+    second: Pas_19
+  - first:
+      213: -8676196069179922893
+    second: Pas_20
+  - first:
+      213: 4012168792377114594
+    second: Pas_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pas_0
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1996
+        width: 2595
+        height: 2008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ce4b6b8e902e010800000000000000
+      internalID: 1216545744445828140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pas_5
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 2193
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970e7dbb3ea3c93e0800000000000000
+      internalID: -2045695380949573511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pas_6
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 2190
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74fe9c076b0837ae0800000000000000
+      internalID: -1552755925448003769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pas_7
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 2192
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0d55aa8b660d0f0800000000000000
+      internalID: -1094261766133264138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pas_8
+      rect:
+        serializedVersion: 2
+        x: 2398
+        y: 2194
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b1bcd86c07ea330800000000000000
+      internalID: 3724037939966712731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pas_9
+      rect:
+        serializedVersion: 2
+        x: 2435
+        y: 2193
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32996d4daeb451d0800000000000000
+      internalID: -3362853370201533891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pas_10
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 2194
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4befe43b7d7a7f0800000000000000
+      internalID: -601274860106238801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pas_11
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 2159
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b3e9df674898d40800000000000000
+      internalID: 5587142459325823860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pas_12
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 2157
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5402adfb0e8416c10800000000000000
+      internalID: 2044995835931533381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pas_13
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 2158
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a2b306bf6ade890800000000000000
+      internalID: -7427096611882587576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pas_14
+      rect:
+        serializedVersion: 2
+        x: 2420
+        y: 2159
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8fc11729bdd5c20800000000000000
+      internalID: 3196952732512352472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pas_15
+      rect:
+        serializedVersion: 2
+        x: 2456
+        y: 2158
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d79798798a9c00c0800000000000000
+      internalID: -4608138403482462251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pas_16
+      rect:
+        serializedVersion: 2
+        x: 2494
+        y: 2159
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc8648df54db6020800000000000000
+      internalID: 2336194339837217985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pas_17
+      rect:
+        serializedVersion: 2
+        x: 2532
+        y: 2160
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487aa8645e60a4e50800000000000000
+      internalID: 6794250569642583940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pas_18
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 2123
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8236c67d33e7730f0800000000000000
+      internalID: -1137301619765124312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pas_19
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 2123
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d318737a5d61aa50800000000000000
+      internalID: 6530621169915663317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pas_20
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 2123
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336e3eeb4a5f79780800000000000000
+      internalID: -8676196069179922893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pas_21
+      rect:
+        serializedVersion: 2
+        x: 2514
+        y: 2123
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2efbb8062461ea730800000000000000
+      internalID: 4012168792377114594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5dd2f4e84b92b3b40b9fdec67a9fa6ee
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pas_0: 1216545744445828140
+      Pas_1: 2737606550311986588
+      Pas_10: -601274860106238801
+      Pas_11: 5587142459325823860
+      Pas_12: 2044995835931533381
+      Pas_13: -7427096611882587576
+      Pas_14: 3196952732512352472
+      Pas_15: -4608138403482462251
+      Pas_16: 2336194339837217985
+      Pas_17: 6794250569642583940
+      Pas_18: -1137301619765124312
+      Pas_19: 6530621169915663317
+      Pas_2: -4944532010536013196
+      Pas_20: -8676196069179922893
+      Pas_21: 4012168792377114594
+      Pas_22: -1943409019
+      Pas_23: 2049165773
+      Pas_24: -1224800028
+      Pas_3: 8299174449486684887
+      Pas_4: 2035142115435874153
+      Pas_5: -2045695380949573511
+      Pas_6: -1552755925448003769
+      Pas_7: -1094261766133264138
+      Pas_8: 3724037939966712731
+      Pas_9: -3362853370201533891
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

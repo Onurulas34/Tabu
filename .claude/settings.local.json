@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C \"C:/Users/ULAS/Documents/GitHub/Tabu/Tabu\" status --short)",
+      "Bash(powershell -Command \"Get-ChildItem ''C:\\\\Users\\\\ULAS\\\\Documents\\\\GitHub\\\\Tabu\\\\Tabu\\\\Assets\\\\CardSO'' | Select-Object -First 5 | Format-List Name\")",
+      "Bash(powershell -Command \"Test-Path ''C:\\\\Users\\\\ULAS\\\\Documents\\\\GitHub\\\\Tabu\\\\Tabu\\\\Assets\\\\CardSO''\")",
+      "Bash(powershell -Command \"Write-Output \\(Test-Path ''C:\\\\Users\\\\ULAS\\\\Documents\\\\GitHub\\\\Tabu\\\\Tabu\\\\Assets\\\\CardSO''\\)\")",
+      "Bash(powershell -Command \"Write-Output ''test''\")",
+      "Bash(powershell -Command \":*)",
+      "Bash(python3 -c \":*)",
+      "Bash(python3 -c \"import sys; sys.stdout.write\\(''hello\\\\n''\\); sys.stdout.flush\\(\\)\")"
+    ]
+  }
+}
